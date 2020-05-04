@@ -1,0 +1,66 @@
+{
+  "_from": "cordova-plugin-request-location-accuracy_sayeh",
+  "_id": "cordova-plugin-request-location-accuracy_sayeh@2.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-PVKnbsQQNQPQRtczH4gy8jgbUzY1ukLrH7X1f1OClyHM1PFnAhNvZbML8jxLRtXoyFKbQcVnBq0kGLJ/Rjhp6w==",
+  "_location": "/cordova-plugin-request-location-accuracy_sayeh",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-request-location-accuracy_sayeh",
+    "name": "cordova-plugin-request-location-accuracy_sayeh",
+    "escapedName": "cordova-plugin-request-location-accuracy_sayeh",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-request-location-accuracy_sayeh/-/cordova-plugin-request-location-accuracy_sayeh-2.2.2.tgz",
+  "_shasum": "f8fb4554276cc0c04351e422965351c6590e9992",
+  "_spec": "cordova-plugin-request-location-accuracy_sayeh",
+  "_where": "C:\\Users\\Justus programming\\MyCityApp",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "bugs": {
+    "url": "https://github.com/dpa99c/cordova-plugin-request-location-accuracy/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-request-location-accuracy_sayeh",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "cordova_name": "Request Location Accuracy",
+  "deprecated": false,
+  "description": "Cordova/Phonegap plugin for Android to request Location Accuracy mode via Google Play Services.",
+  "homepage": "https://github.com/dpa99c/cordova-plugin-request-location-accuracy#readme",
+  "issue": "https://github.com/dpa99c/cordova-plugin-request-location-accuracy/issues",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "phonegap",
+    "diagnostic",
+    "location",
+    "accuracy",
+    "high accuracy",
+    "fine accuracy",
+    "gps",
+    "settings"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-request-location-accuracy_sayeh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpa99c/cordova-plugin-request-location-accuracy.git"
+  },
+  "version": "2.2.2"
+}
